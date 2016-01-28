@@ -4,6 +4,10 @@ layout: default
 
 <section id="one" >
     <div class="container">
+        <header class="major">
+            <h2>Coming soon!</h2>
+            <p>I'm thinking about my first post. Please, be patient :)</p>
+        </header>
         {% for post in site.posts limit:1 %}
             <article>
                 <header>
@@ -30,7 +34,7 @@ layout: default
                 <header>
                     <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
                 </header>
-                
+
                     {{ post.content | truncatewords: 30 }}
                 </section>
                 <footer>
