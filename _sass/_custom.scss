@@ -8,3 +8,11 @@
   font-style: italic;
   @include font-size(16);
 }
+.skills {
+  i {
+    margin-bottom: 15px;
+  }
+  i:before {
+    margin-right: 5px;
+  }
+}
