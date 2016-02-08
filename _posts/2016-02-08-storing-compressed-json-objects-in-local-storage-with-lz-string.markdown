@@ -5,6 +5,7 @@ modified:
 share: true
 categories: blog 
 excerpt: A simple tiny way to store JSON compressed objects in the local storage
+comments: true
 tags: [json, javascript, local storage, compress, lz string]
 date: 2016-02-08T19:26:59+01:00
 ---
