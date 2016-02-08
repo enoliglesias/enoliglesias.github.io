@@ -19,11 +19,14 @@ gems:
   - jekyll-sitemap
 
 kramdown:
+  input: GFM
+  hard_wrap: false
   auto_ids: true
   footnote_nr: 1
+  syntax_highlighter: rouge
   entity_output: as_char
   toc_levels: 1..2
-  use_coderay: false
+  enable_coderay: false
 
 mathjax: true
 
