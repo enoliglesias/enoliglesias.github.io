@@ -16,7 +16,7 @@ Today, I would like to announce my first iOS mobile application.
 
 This is the app for the vegan recipes blog [Begin Vegan Begun](http://beginveganbegun.es/){:target="_blank"}. And it's developed with [Apache Cordova](https://cordova.apache.org/){:target="_blank"}.
 
-If you're reding this. Maybe you want to read the [previous post](/blog/begin-vegan-begun-android-app/) where I'm talking about the Android one. And about the process of development. Because this post it's a little spam :P
+If you're reding this. Maybe you want to read the [previous post](/blog/begin-vegan-begun-android-app/) where I'm talking about the Android one. And about the process of development. Because this post it's only to announce the iOS app :P
 
 As always, all comments are more than welcome. And feel free to tell me whatever you want. You can find me on twitter [@enoliglesias](https://twitter.com/enoliglesias){:target="_blank"} :)
 
