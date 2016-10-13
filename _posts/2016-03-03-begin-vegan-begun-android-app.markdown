@@ -24,7 +24,7 @@ To make a simple project with Cordova is pretty easy. For this project I use:
 * JS
 * A Wordpress API. In order to get the blog data
 
-You can develop the app like if you were developing a web app. Getting the API data via JS calls. Using all the HTML you want, CSS, etc. And once you build the project for some platform, those calls will work perfectly. And the HTML + CSS will show perfectly too. Cordova do the hard work of translate to native :)
+You can develop the app like if you were developing a web app. Getting the API data via JS calls. Using all the HTML you want, CSS, etc. And once you build the project for some platform, those calls will work perfectly. And the HTML + CSS will show perfectly too. Cordova do the work of put them in a web view.
 
 One important thing to take in account, it's that the responsive design is very important (in all the app is important, but in this case, a little more ;)). Because each mobile has a different size of screen. And we want our application look awesome in all phones.
 
