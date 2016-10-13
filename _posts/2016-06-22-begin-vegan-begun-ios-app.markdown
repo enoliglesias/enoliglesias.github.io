@@ -7,7 +7,7 @@ categories: blog
 excerpt: Here comes the iOS one!
 comments: true
 tags: [begin, vegan, begun, ios, app, mobile, cordova, hybrid]
-date: 2016-03-22T19:26:59+01:00
+date: 2016-06-22T19:26:59+01:00
 ---
 
 Today, I would like to announce my first iOS mobile application.
