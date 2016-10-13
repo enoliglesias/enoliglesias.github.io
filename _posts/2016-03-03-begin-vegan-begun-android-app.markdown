@@ -26,11 +26,11 @@ To make a simple project with Cordova is pretty easy. For this project I use:
 
 You can develop the app like if you were developing a web app. Getting the API data via JS calls. Using all the HTML you want, CSS, etc. And once you build the project for some platform, those calls will work perfectly. And the HTML + CSS will show perfectly too. Cordova do the work of put them in a web view.
 
-One important thing to take in account, it's that the responsive design is very important (in all the app is important, but in this case, a little more ;)). Because each mobile has a different size of screen. And we want our application look awesome in all phones.
+One important thing to take in account, it's that the responsive design is very important (in all apps is important, but in this case, a little more ;)). Because each mobile has a different screen size. And we want our application look awesome in all phones.
 
 You can take a look at my [wpreader github repo](https://github.com/enoliglesias/wpreader){:target="_blank"} and see what I'm talking about.
 
-I would like to talk about _pros_ and _cons_ of Cordova. Alway IMHO. And based in my experience by developing this app.
+I would like to talk about _pros_ and _cons_ of Cordova. Always IMHO. And based in my experience by developing this app.
 
 # Main pros
 
