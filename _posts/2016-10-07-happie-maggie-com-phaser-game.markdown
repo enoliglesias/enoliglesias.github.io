@@ -28,7 +28,7 @@ I made this videogame with a couple of coworkers: [claralisse](https://twitter.c
 
 We made it in order to raise awareness in our office, so people don't feed our little pet dog :) (she gets sick)
 
-You can also take a look to my very first try with Phaser: [Escape from the pinkies](/escape-from-the-pinkies) where you can play with a pixelated version of me, shooting some rare cute pinky dogs.
+You can also take a look to my very first try with Phaser: [Escape from the pinkies](/escape-from-the-pinkies){:target="_blank"} where you can play with a pixelated version of me, shooting some rare cute pinky dogs.
 
 And that's all! You can find me on twitter [@enoliglesias](https://twitter.com/enoliglesias){:target="_blank"} for whatever you want to ask.
 
