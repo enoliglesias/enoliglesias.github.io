@@ -11,7 +11,7 @@ date: 2016-03-03T19:26:59+01:00
 ---
 
 
-Today, I would like to announce my first mobile application.
+Today, I would like to announce my first Android mobile application.
 
 [Begin Vegan Begun vegan recipes](https://play.google.com/store/apps/details?id=com.enoliglesias.bvb){:target="_blank"}
 
