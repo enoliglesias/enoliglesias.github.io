@@ -53,7 +53,7 @@ Storage.prototype.getObj = function(key) {
 };
 ~~~
 
-And that's all! I hope you find it useful. You can find me in twitter [@enoliglesias](https://twitter.com/enoliglesias){:target="_blank"} for whatever you want to ask.
+And that's all! I hope you find it useful. You can find me on twitter [@enoliglesias](https://twitter.com/enoliglesias){:target="_blank"} for whatever you want to ask.
 
 I want to thank [@putuko](https://twitter.com/putuko){:target="_blank"} for discover me the LZ string :)
 
