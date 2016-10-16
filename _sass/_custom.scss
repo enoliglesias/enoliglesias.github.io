@@ -16,3 +16,28 @@
     margin-right: 5px;
   }
 }
+
+.project-list {
+  .project {
+    width: 31%;
+    display: inline-table;
+    margin: 0px 0px 5% 2%;
+
+    div {
+      width: 100%;
+      &.image {
+        margin-bottom: 10px;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 680px) {
+  .project-list {
+    text-align: center;
+    .project {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+  }
+}
