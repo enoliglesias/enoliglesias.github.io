@@ -5,9 +5,9 @@ excerpt: Undefined Method is the personal blog of Enol Iglesias, a Ruby on Rails
 tags: undefined method, enol iglesias, ruby on rails, ruby, coding blog, developer
 ---
 
-<h3 class="latest-home">Latest posts</h3>
+<h3 class="latest-home">Latest 10 posts</h3>
 <ul class="post-list">
-{% for post in site.posts limit:5 %}
+{% for post in site.posts limit:10 %}
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
