@@ -178,6 +178,6 @@ defmodule App.ImpersonateControllerTest do
 end
 ~~~
 
-I wanted to talk about the test because as you can see, the `assert` it's against `Guardian.Plug.current_resource` instead of `conn.assigns`. This is because the assigns are set in every request, passing through the pipelines. So, when the server returns the response, no pipeline are executed. And the assigns are not updated with the new info. So we need to assert against the info in the plug. That extract the info directly from the JWT token, instead of the conn. (I hope I have explained this xD)
+I wanted to talk about the test because as you can see, the `assert` is against `Guardian.Plug.current_resource` instead of `conn.assigns`. This is because the assigns are set in every request, passing through the pipelines. So, when the server returns the response, no pipeline are executed. And the assigns are not updated with the new info. So we need to assert against the info in the plug. That extracts the info directly from the JWT token, instead of the conn. (I hope I have explained this xD)
 
 And that's all! I hope you find it useful. You can find me on twitter [@enoliglesias](https://twitter.com/enoliglesias){:target="_blank"} for whatever you want to ask x)
