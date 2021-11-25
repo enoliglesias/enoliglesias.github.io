@@ -13,7 +13,7 @@ date: 2016-10-07T16:30:00+01:00
 
 Today, I'm going to talk about our first complete and "profesional" videogame.
 
-[Happie Maggie](http://www.happiemaggie.com/){:target="_blank"}
+[Happie Maggie](https://happiemaggie.herokuapp.com//){:target="_blank"}
 
 ![HappieMaggie]({{ site.url }}/images/happiemaggie.png)
 
